@@ -92,6 +92,11 @@ Stellarity adds various enchantments that can enhance your gear in special ways.
 <br>
 - Only use is for technical purposes
 
+## Void Locket Enchants
+- Includes Vision, Power (Stellarity), Furor, Fortune (Stellarity), Spelunking, Fortitude, Wisdom, Rage, and Agility
+<br>
+- Theyre useless, the void locket doesnt even exist
+
 ## History
 === "**3.0.0**"
     - :rocket: Introduced
