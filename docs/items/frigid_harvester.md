@@ -30,11 +30,11 @@
 	</tr>
 	<tr>
 		<td><b>Damage</b></td>
-		<td>4 (Base)</td>
+		<td>4-16</td>
 	</tr>
 	<tr>
 		<td><b>Attack Speed</b></td>
-		<td>1 (Base)</td>
+		<td>1-0.75</td>
 	</tr>
 	<tr>
 		<td><b>Tooltip</b></td>
@@ -52,12 +52,11 @@
 	</tr>
 	<tr>
 		<td><b>Durability</b></td>
-		<td>1562 (Unbreakable at tier 4)</td>
+		<td>1562-Unbreakable</td>
 	</tr>
 	<tr>
 		<td><b>Other</b></td>
-		<td>100% Speed (base)</td>
-		<td>+0.5 Entity Interaction Range</td>
+		<td>100%-80%</td>
 	</tr>
 </table>
 </div>
@@ -66,15 +65,19 @@
 ## Obtaining
 Frigid Harvester has a 10% chance to be found inside Frozen Crates fished up during [Void Fishing](../mechanics/void_fishing.md).
 
-<i class="icon-minecraft icon-minecraft-mob-stray-face"></i>Strays found in [Frosted Hills](../biomes/frosted_hills.md) have a 3% chance to spawn holding a Frigid Harvester, which they always drop on death. Strays equipped with Harvesters have increased stats and wear a <i class="icon-minecraft icon-minecraft-diamond-helmet"></i>Diamond Helmet and <i class="icon-minecraft icon-minecraft-diamond-chestplate"></i>Chestplate.
+<i class="icon-minecraft icon-minecraft-mob-stray-face"></i>Strays found in [Any end ice biome](../biomes/frosted_hills.md) have a 1% chance to spawn holding a Frigid Harvester, which they always drop on death. Strays equipped with Harvesters have increased stats and wear a <i class="icon-minecraft icon-minecraft-diamond-helmet"></i>Diamond Helmet and <i class="icon-minecraft icon-minecraft-diamond-chestplate"></i>Chestplate.
 
 ## Usage
 Killing any living mob permanently increases Frigid Harvester's damage. Stronger mobs give more extra damage, while passive mobs barely grant any increase. Displayed damage is shown to the hundreth, meaning that e.g. damage value of `8.623` is going to be displayed as `8.62` instead.
 
-The Frigid Harvester has 4 tiers that it can unlock. 
+The Frigid Harvester has 4 tiers that it can unlock.
+<br>
 Tier 1 is unlocked at 7 damage. Small bits of pink appear in the center of the blade. The attack speed and movement speed while held decrease to 0.95 and 95%.
+<br>
 Tier 2 is unlocked at 10 damage. More pink appears on the back, center, and tip of the sword. The attack speed and movement speed while held decrease to 0.9 and 90%.
+<br>
 Tier 3 is unlocked at 13 damage. The entire guard and more of the blade itself becomes pink. The attack speed and movement speed while held decrease to 0.8 and 85%.
+<br>
 Tier 4 is unlocked at 16 damage. The guard is replaced by a new one and most the blade itself has turned pink. Once you hit this tier, the Frigid Harvester becomes unbreakable and no longer gains any more damage. The attack speed and movement speed while held decrease to 0.75 and 80%.
 
 ### Passive Abilities

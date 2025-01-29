@@ -29,6 +29,7 @@ nav:
       - Starless Scythe: items/starless_scythe.md
       - Stellar Striker: items/stellar_striker.md
       - Frigid Harvester: items/frigid_harvester.md
+      - Sandstorm Trident: items/sandstorm_trident.md
       - Prismatic Punch: items/prismatic_punch.md
       - Prismember: items/prismember.md
       - Kaleidoscope: items/kaleidoscope.md
@@ -36,8 +37,13 @@ nav:
       - Chorus Champion Armor: items/armor/chorus_champion_armor.md
       - Hallowed Armor: items/armor/hallowed_armor.md
       - Shulker Armor: items/armor/shulker_armor.md
+      - Floral Armor: items/armor/floral_armor.md
+      - Phantom Wings: items/armor/phantom_wings.md
+      - Dragon Wings: items/armor/dragon_wings.md
+      - Empress Wings: items/armor/empress_wings.md
     - Trinkets:
       - Copper Elektra Shield: items/trinkets/copper_elektra_shield.md
+      - Enderman Hand: items/trinkets/enderman_hand.md
       - Ender Insignia: items/trinkets/ender_insignia.md
       - Dragon's Eye: items/trinkets/dragons_eye.md
       - Crest of The End: items/trinkets/crest_of_the_end.md
@@ -81,7 +87,7 @@ nav:
         - Ender Dragon: mobs/bosses/ender_dragon.md
         - Empress of Light: mobs/bosses/empress_of_light.md
   - Mechanics:
-      - Treasure Heads: mechanics/treasure_heads.md
+      - Enchantments: mechanics/enchantments.md
       - Void Fishing: mechanics/void_fishing.md
       - Armor Penetration: mechanics/armor_penetration.md
       - Altar of The Accursed: mechanics/altar_of_the_accursed.md
