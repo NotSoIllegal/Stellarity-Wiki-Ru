@@ -56,7 +56,7 @@
 	</tr>
 	<tr>
 		<td><b>Other</b></td>
-		<td>100%-80%</td>
+		<td>100%-80% Speed</td>
 	</tr>
 </table>
 </div>
